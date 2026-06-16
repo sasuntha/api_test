@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>DARK</theme>
+        <encoding>UTF-8</encoding>
+        <documentTitle>API Automation Report</documentTitle>
+        <reportName>FakeStore API Test Report</reportName>
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+        <css>
+            .brand-logo { color: #00bcd4; }
+            .report-header { background-color: #1a1a2e; }
+        </css>
+    </configuration>
+</extentreports>
